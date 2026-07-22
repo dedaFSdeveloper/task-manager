@@ -2,15 +2,12 @@
 
 🔗 **Deploy:** https://proyecto-m4-ezequiel-molinari.vercel.app
 
-## Credenciales de prueba
+markdown
+## Cómo probarlo
 
-```
-Email: test.proyectom4@gmail.com
-Contraseña: ADMIN1234
-```
+Podés registrarte con tu propio email para crear una cuenta de prueba, o clonar el repo y correrlo localmente con tus propias credenciales de Firebase (ver sección de instalación).
 
 > ⚠️ AWS SES está en modo sandbox. Los emails pueden llegar a spam.
-
 ---
 
 ## Descripción
