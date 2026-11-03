@@ -1,13 +1,15 @@
-# ProyectoM4 - Ezequiel Molinari
+# Task Manager
+
+[![CI](https://github.com/dedaFSdeveloper/task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/dedaFSdeveloper/task-manager/actions/workflows/ci.yml) ![React](https://img.shields.io/badge/React-19-61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-6-blue) ![License](https://img.shields.io/badge/status-portfolio-informational)
 
 🔗 **Deploy:** https://proyecto-m4-ezequiel-molinari.vercel.app
 
-markdown
 ## Cómo probarlo
 
 Podés registrarte con tu propio email para crear una cuenta de prueba, o clonar el repo y correrlo localmente con tus propias credenciales de Firebase (ver sección de instalación).
 
 > ⚠️ AWS SES está en modo sandbox. Los emails pueden llegar a spam.
+
 ---
 
 ## Descripción
